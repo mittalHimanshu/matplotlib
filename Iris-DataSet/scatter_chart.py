@@ -3,7 +3,8 @@ import csv
 import matplotlib.pyplot as plt
 
 input_file = 'iris.csv'
-plt.figure(figsize=(8, 5))
+plt.figure(figsize=(7.5, 4.25))
+fig = plt.figure()
 
 with open(input_file, 'r') as iris_data:
     irises = list(csv.reader(iris_data))
@@ -20,5 +21,5 @@ plt.title("Fisher's Iris Data Set", fontsize=12)
 plt.xlabel('sepal length (cm)', fontsize=10)
 plt.ylabel('sepal width (cm)', fontsize=10)
 plt.legend(loc='upper right')
-
+fig.savefig('scatter.png')
 plt.show()
