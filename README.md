@@ -9,7 +9,7 @@ A photographer friend of mine, Steve, was commissioned to take pictures of the O
 <p align="center">
     <img src="https://mittalhimanshu151.000webhostapp.com/Images/matplotlib/project.png" 
          alt="Image"
-         width="400px" height="300px"/>
+         width="500" height="400"/>
 </p>
 
 ## Conclusion
