@@ -7,11 +7,13 @@ A photographer friend of mine, Steve, was commissioned to take pictures of the O
 ## Data Visualization
 
 <p align="center">
-    <img src="https://mittalhimanshu151.000webhostapp.com/Images/matplotlib/project.png" alt="Image"/>
+    <img src="https://mittalhimanshu151.000webhostapp.com/Images/matplotlib/project.png" 
+         alt="Image"
+         width="400" height="300"/>
 </p>
 
 ## Conclusion
 
-* He have about `4 minutes` to take pictures of an eruptions.
+* He have about `4 minutes` to take pictures of an eruption.
 * He will generally have to wait about `80 minutes` between eruptions.
 * For the short videos, the scatter plot shows that he should be looking for opportunities in which the eruptions occur more frequently.
